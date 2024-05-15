@@ -1,0 +1,9 @@
+com\food\ordering\system\order\service\domain\valueobject\OrderItem.class
+com\food\ordering\system\order\service\domain\valueobject\OrderItemId.class
+com\food\ordering\system\order\service\domain\valueobject\Product.class
+com\food\ordering\system\order\service\domain\valueobject\StreetAddress.class
+com\food\ordering\system\order\service\domain\entity\Order$Builder.class
+com\food\ordering\system\App.class
+com\food\ordering\system\order\service\domain\valueobject\TrackingId.class
+com\food\ordering\system\order\service\domain\entity\Order.class
+com\food\ordering\system\order\service\domain\valueobject\OrderItem$Builder.class
